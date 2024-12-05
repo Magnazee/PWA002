@@ -1,0 +1,45 @@
+{
+  "name": "Voice Rainbow PWA",
+  "short_name": "Voice Rainbow",
+  "description": "A voice-enabled PWA that speaks colors as they change",
+  "id": "voice-rainbow-pwa",
+  "start_url": "/PWA002/",
+  "scope": "/PWA002/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4B0082",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/PWA002/icons/icon-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/PWA002/icons/icon-192x192-maskable.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/PWA002/screenshots/narrow.svg",
+      "sizes": "1080x1920",
+      "type": "image/svg+xml",
+      "form_factor": "narrow",
+      "label": "Voice Rainbow on Mobile"
+    },
+    {
+      "src": "/PWA002/screenshots/wide.svg",
+      "sizes": "1920x1080",
+      "type": "image/svg+xml",
+      "form_factor": "wide",
+      "label": "Voice Rainbow on Desktop"
+    }
+  ],
+  "categories": ["entertainment", "education"],
+  "lang": "en-US",
+  "dir": "ltr"
+}

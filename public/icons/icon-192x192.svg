@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="192" height="192" fill="#4B0082"/>
+  
+  <!-- Rainbow arc scaled for 192x192 -->
+  <g transform="translate(21,21) scale(0.78)">
+    <path d="M 58.5 133.5 A 67.5 67.5 0 0 1 133.5 133.5" fill="none" stroke="#FF0000" stroke-width="11"/>
+    <path d="M 66 133.5 A 60 60 0 0 1 126 133.5" fill="none" stroke="#FF7F00" stroke-width="11"/>
+    <path d="M 73.5 133.5 A 52.5 52.5 0 0 1 118.5 133.5" fill="none" stroke="#FFFF00" stroke-width="11"/>
+    <path d="M 81 133.5 A 45 45 0 0 1 111 133.5" fill="none" stroke="#00FF00" stroke-width="11"/>
+    <path d="M 88.5 133.5 A 37.5 37.5 0 0 1 103.5 133.5" fill="none" stroke="#0000FF" stroke-width="11"/>
+    
+    <!-- Sound waves -->
+    <path d="M 58.5 58.5 A 18.75 18.75 0 0 1 133.5 58.5" fill="none" stroke="#FFFFFF" stroke-width="7.5" opacity="0.3"/>
+    <path d="M 69.75 58.5 A 11.25 11.25 0 0 1 122.25 58.5" fill="none" stroke="#FFFFFF" stroke-width="7.5" opacity="0.5"/>
+    <path d="M 81 58.5 A 3.75 3.75 0 0 1 111 58.5" fill="none" stroke="#FFFFFF" stroke-width="7.5" opacity="0.7"/>
+  </g>
+</svg>
